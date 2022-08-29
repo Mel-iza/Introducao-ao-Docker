@@ -5,10 +5,10 @@ Configuração do Docker (Ubunto 20.4) com testes via VSCode e Github Desktop.
  Referências de conteúdo: <br>
  [Curso de Docker para iniciantes - aprenda Docker em 1 hora](https://www.youtube.com/watch?v=np_vyd7QlXk) <br>
  [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=pTFZFxd4hOI) <br>
- [Curso de Git e Github | Curso em vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+ [Curso de Git e Github | Curso em vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)<br>
 
-<br>
-**Docker Version** <br>
+
+**Docker Version**   <br>
 Server: Docker Desktop 4.11.1 (84025)<br>
  Engine:<br>
   Version:          20.10.17<br>
