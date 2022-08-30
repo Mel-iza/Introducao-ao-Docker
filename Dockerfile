@@ -5,7 +5,7 @@ WORKDIR /plot/hello_matplotlib
 RUN pwd
 
 COPY requirements_v1.txt .
-RUN pip install -r requirements_v1
+RUN pip install -r requirements_v1.txt
 
 RUN ls -la
 COPY . .
@@ -13,4 +13,4 @@ RUN ls -la
 
 WORKDIR plot
 
-CMD ["hello_matplotlib"]
+CMD ["python", "hello_matplotlib"]
