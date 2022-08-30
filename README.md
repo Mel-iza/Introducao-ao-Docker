@@ -24,3 +24,4 @@ Server: Docker Desktop 4.11.1 (84025)<br>
  [Curso de Git e Github | Curso em vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)<br>
  [Containers: Python in a container](https://code.visualstudio.com/docs/containers/quickstart-python)
  [Remote development in Containers](https://code.visualstudio.com/docs/remote/containers-tutorial)
+ [Docker Docs](https://docs.docker.com/)
