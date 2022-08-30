@@ -18,11 +18,11 @@ Server: Docker Desktop 4.11.1 (84025)<br>
   GitCommit:        de40ad0<br>
 
 **Alguns comandos no terminal**
-> docker run -it ubuntu (*rodar imagem do Linux*)
-> docker build .
-> docker image ls
-> docker run -p 8080:8080 [Image ID]
-> docker run -p 8080:8080 -d [Image ID]
+> docker run -it ubuntu (*rodar imagem do Linux*) <br>
+> docker build . <br>
+> docker image ls <br>
+> docker run -p 8080:8080 [Image ID] <br>
+> docker run -p 8080:8080 -d [Image ID] <br>
 
  **Referências de conteúdo:** <br>
  [Curso de Docker para iniciantes - aprenda Docker em 1 hora](https://www.youtube.com/watch?v=np_vyd7QlXk) <br>
