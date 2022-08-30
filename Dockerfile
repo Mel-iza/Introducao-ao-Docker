@@ -1,7 +1,7 @@
 FROM python:3
 
 RUN pwd
-WORKDIR /plot/hello_matplotlib
+WORKDIR /plot/
 RUN pwd
 
 COPY requirements_v1.txt .

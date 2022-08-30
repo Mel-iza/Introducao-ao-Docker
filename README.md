@@ -4,8 +4,7 @@
 
 ### Introdução ao Docker | Primeiros passos <br>
 
-Configuração do Docker (Ubunto 20.4) com testes via VSCode e Github Desktop. <br>
-Materiais utilizados do repositório [Projeto maroto com Docker](https://github.com/matheusjorge/projeto_maroto_com_docker)
+Configuração do Docker (Ubuntu 20.4) com testes via VSCode e Github Desktop. <br>
 
 ### Dockerhub <br>
 O DockerHub é uma [biblioteca aberta de imagens para contêiner do Docker](https://hub.docker.com/)
@@ -18,6 +17,13 @@ Server: Docker Desktop 4.11.1 (84025)<br>
   Version:          0.19.0<br>
   GitCommit:        de40ad0<br>
 
+**Alguns comandos no terminal**
+> docker run -it ubuntu (*rodar imagem do Linux*)
+> docker build .
+> docker image ls
+> docker run -p 8080:8080 [Image ID]
+> docker run -p 8080:8080 -d [Image ID]
+
  **Referências de conteúdo:** <br>
  [Curso de Docker para iniciantes - aprenda Docker em 1 hora](https://www.youtube.com/watch?v=np_vyd7QlXk) <br>
  [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=pTFZFxd4hOI) <br>
@@ -25,3 +31,5 @@ Server: Docker Desktop 4.11.1 (84025)<br>
  [Containers: Python in a container](https://code.visualstudio.com/docs/containers/quickstart-python)
  [Remote development in Containers](https://code.visualstudio.com/docs/remote/containers-tutorial)
  [Docker Docs](https://docs.docker.com/)
+ [Repositório Projeto maroto com Docker @matheusjorge](https://github.com/matheusjorge/projeto_maroto_com_docker)
+
